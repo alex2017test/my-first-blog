@@ -1,0 +1,1 @@
+https://tutorial.djangogirls.org/ru/django_start_project/
